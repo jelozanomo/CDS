@@ -1,1 +1,2 @@
 SELECT NOMBR
+https://diego.com.es/principales-tipos-de-joins-en-sql
